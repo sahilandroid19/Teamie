@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Teamie</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="score">%1$d/10</string>
+    <string name="progress_dialog">Fetching data…</string>
+    <string name="word_chooser_title">Select Word</string>
+    <string name="grid_number">No.</string>
+    <string name="user_answer">Your Answer</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="score_button">Find your Score</string>
+    <string name="score_text">Your Score is:</string>
+    <string name="replay_button">Replay this Game</string>
+    <string name="user_activity">User Activity:</string>
+</resources>
